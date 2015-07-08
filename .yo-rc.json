@@ -1,0 +1,11 @@
+{
+  "generator-reveal": {
+    "presentationTitle": "Polyglot Development With Grails 3",
+    "packageVersion": "0.0.0",
+    "revealTheme": "beige",
+    "useSass": false,
+    "deployToGithubPages": true,
+    "githubUsername": "jeffbrown",
+    "githubRepository": "gr8_us_polyglot_grails"
+  }
+}
