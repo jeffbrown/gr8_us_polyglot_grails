@@ -3,7 +3,7 @@
 <table cellspacing="50">
 <tr>
 <td style="text-align: center;">
-<img src="/lib/assets/images/miro1591.jpg" width="300" height="400"/>
+<img src="lib/assets/images/miro1591.jpg" width="300" height="400"/>
 <br/>
 <div style="text-align: center;">
 *The Polyglot Man - Orange, 1969*
