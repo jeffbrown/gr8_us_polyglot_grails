@@ -11,6 +11,6 @@ Grails Core Development Team
 
 [@jeffscottbrown](http://twitter.com/jeffscottbrown)
 
-<brownj@ociweb.com>
+<brownj@objectcomputing.com>
 
-http://www.ociweb.com/
+http://www.objectcomputing.com/
