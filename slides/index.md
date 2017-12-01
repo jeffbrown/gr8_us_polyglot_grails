@@ -2,7 +2,7 @@
 
 ## Polyglot Development With Grails 3
 
-### GR8 US - July 2015
+### G3 Summit - November 2017
 <br/><br/>
 
 Jeff Scott Brown
