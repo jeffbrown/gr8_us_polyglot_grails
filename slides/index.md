@@ -2,7 +2,7 @@
 
 ## Polyglot Development With Grails 3
 
-### GR8 US - July 2015
+### G3 Summit - November 2017
 <br/><br/>
 
 Jeff Scott Brown
@@ -11,6 +11,6 @@ Grails Core Development Team
 
 [@jeffscottbrown](http://twitter.com/jeffscottbrown)
 
-<brownj@ociweb.com>
+<brownj@objectcomputing.com>
 
-http://www.ociweb.com/
+http://www.objectcomputing.com/
